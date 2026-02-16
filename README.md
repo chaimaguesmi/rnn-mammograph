@@ -10,7 +10,7 @@ Projet de classification d'images mammographiques utilisant un réseau de neuron
 ### Option 1 : Exécution sur Google Colab (Recommandé)
 
 1. **Ouvrir le notebook dans Colab**
-   - Cliquez sur ce lien : [![Open In Colab](https://colab.research.google.com/drive/1gAwNNqrAg8P1OZe86wnaPNHCzXYYYQH2?usp=sharing)]
+   - Cliquez sur ce lien : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chaimaguesmi/rnn-mammograph/blob/main/RNN_Pretraitement.ipynb)
    - Ou uploadez manuellement `RNN_Pretraitement.ipynb` sur Colab
 
 2. **Le notebook téléchargera automatiquement les données**
